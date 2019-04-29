@@ -18,7 +18,6 @@ db.createWebview(process.env.PASSWORD, process.env.PORT1);// process.env.PORT cr
 const points = new db.table('POINTS');
 const levels = new db.table('LEVELS');
 const xpl = new db.table("TOTAL_POINTS");
-let coins = require("./coins.json");
 
 const Discord = require('discord.js'); //Discord library
 //Creating bot

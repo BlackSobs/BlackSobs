@@ -1,0 +1,284 @@
+{
+  "1": {
+    "name": "Help",
+    "group": "Utility",
+    "desc": "Gives you help information. *Use `help groups` to see list of groups*",
+    "usage": "help (command|group) (groups)"
+  },
+  "2": {
+    "name": "Stats",
+    "group": "Utility",
+    "desc": "Gives you some statistics",
+    "usage": "stats"
+  },
+  "3": {
+    "name": "8ball",
+    "group": "Fun",
+    "desc": "Asks 8ball for an answer",
+    "usage": "8ball <question>"
+  },
+  "4": {
+    "name": "Poll",
+    "group": "Fun",
+    "desc": "Creates a simple poll with timed end. Default time: 1 hour",
+    "usage": "poll (time) <question>"
+  },
+  "5": {
+    "name": "MPoll",
+    "group": "Fun",
+    "desc": "Creates a poll with multi-answers. Timed end will be in future :yum:",
+    "usage": "mpoll"
+  },
+  "6": {
+    "name": "Flip",
+    "group": "Fun",
+    "desc": "Flips a coin",
+    "usage": "flip"
+  },
+  "7": {
+    "name": "Ascii",
+    "group": "Fun",
+    "desc": "Creates ascii-styled text",
+    "usage": "ascii <text>"
+  },
+  "8": {
+    "name": "Join",
+    "group": "Music",
+    "desc": "To join Bot Into your voice channel",
+    "usage": "join"
+  },
+  "9": {
+    "name": "Calc",
+    "group": "Fun",
+    "desc": "Calculate something if you are really stupid",
+    "usage": "calc <math>"
+  },
+  "10": {
+    "name": "Dice",
+    "group": "Fun",
+    "desc": "Roll a dice",
+    "usage": "dice"
+  },
+  "11": {
+    "name": "Leave",
+    "group": "Music",
+    "desc": "Leave Bot from voice channel",
+    "usage": "leave"
+  },
+  "12": {
+    "name": "Roll",
+    "group": "Fun",
+    "desc": "Random number",
+    "usage": "roll"
+  },
+  "13": {
+    "name": "Leaderboards",
+    "group": "Utility",
+    "desc": "Shows a leaders of messages",
+    "usage": "leaderboards"
+  },
+  "14": {
+    "name": "Ping",
+    "group": "Utility",
+    "desc": ":ping_pong: P-p-pongo!",
+    "usage": "ping"
+  },
+  "15": {
+    "name": "Weather",
+    "group": "Utility",
+    "desc": "\"Hey, Google, whats the weather now?\"",
+    "usage": "weather <city-state>"
+  },
+  "16": {
+    "name": "Play",
+    "group": "Music",
+    "desc": "Play something. Merged with `search` command. *Moderator also can use this*",
+    "usage": "play <url|song>"
+  },
+  "17": {
+    "name": "Queue",
+    "group": "Music",
+    "desc": "Shows server's queue *Moderator also can use this*",
+    "usage": "queue"
+  },
+  "18": {
+    "name": "Pause",
+    "group": "Music",
+    "desc": "What do you think it does :thinking: *Moderator also can use this*",
+    "usage": "pause"
+  },
+  "19": {
+    "name": "Resume",
+    "group": "Music",
+    "desc": "And this shit... :thinking: *Moderator also can use this*",
+    "usage": "resume"
+  },
+  "20": {
+    "name": "Stop",
+    "group": "Music",
+    "desc": "*Moderator also can use this*",
+    "usage": "stop"
+  },
+  "21": {
+    "name": "Clear",
+    "group": "Music",
+    "desc": "Clears server's queue. *Moderator also can use this*",
+    "usage": ""
+  },
+  "22": {
+    "name": "Volume",
+    "group": "Music",
+    "desc": "Change music's volume. *Moderator also can use this*",
+    "usage": "volume <0-200>"
+  },
+  "23": {
+    "name": "Skip",
+    "group": "Music",
+    "desc": "Vote for skipping current song. *Everyone can use this*",
+    "usage": "skip"
+  },
+  "24": {
+    "name": "Forceskip",
+    "group": "Music",
+    "desc": "Just skips song immidiently. *Moderator also can use this*",
+    "usage": "forceskip"
+  },
+  "25": {
+    "name": "Ban",
+    "group": "Admin",
+    "desc": "To **B A N** any User",
+    "usage": "ban <@user> (reason)"
+  },
+  "26": {
+    "name": "Kick",
+    "group": "Admin",
+    "desc": "*To *K I C K!** any User",
+    "usage": "kick <@user> (reason)"
+  },
+  "27": {
+    "name": "Warn",
+    "group": "Moderator",
+    "desc": "Warns someone",
+    "usage": "warn <@user> (reason)"
+  },
+  "28": {
+    "name": "Warns",
+    "group": "Utility",
+    "desc": "Shows user's warnings (or mentioned user)",
+    "usage": "warns (@user)"
+  },
+  "29": {
+    "name": "Settings",
+    "group": "Admin",
+    "desc": "Shows server's settings. Use `settings <parameter> <value>` to change parameters",
+    "usage": "settings <param> <val>"
+  },
+  "30": {
+    "name": "Purge",
+    "group": "Admin",
+    "desc": "Eat some messages",
+    "usage": "purge <val 2-100>"
+  },
+  "31": {
+    "name": "Coins Pay",
+    "group": "Economy",
+    "desc": "To pay your coins into anyone",
+    "usage": "coins-pay <@user> <amount>"
+  },
+  "32": {
+    "name": "Coins",
+    "group": "Economy",
+    "desc": "Shows your Coins",
+    "usage": "Coins <@user>"
+  },
+  "38": {
+    "name": "Neko",
+    "group": "Fun",
+    "desc": "Catches a neko for you, nya!",
+    "usage": "neko"
+  },
+  "39": {
+    "name": "Lewd",
+    "group": "Fun",
+    "desc": "Catches a lewd neko for you, nya!",
+    "usage": "lewd"
+  },
+  "40": {
+    "name": "Pat",
+    "group": "Fun",
+    "desc": "Pat someone~~",
+    "usage": "pat <@user>"
+  },
+  "41": {
+    "name": "Hug",
+    "group": "Fun",
+    "desc": "Hug someone~~",
+    "usage": "hug <@user>"
+  },
+  "42": {
+    "name": "Kiss",
+    "group": "Fun",
+    "desc": "Kiss someone~~",
+    "usage": "kiss <@user>"
+  },
+  "43": {
+    "name": "Reset-Prefix",
+    "group": "Admin",
+    "desc": "Slightly resets prefix to 'b+'",
+    "usage": "b-reset-prefix"
+  },
+  "44": {
+    "name": "Rank",
+    "group": "Utility",
+    "desc": "Shows your or mentioned user rank card",
+    "usage": "rank (@user) (-color HEX) (-image URL)"
+  },
+  "45": {
+    "name": "XP",
+    "group": "Utility",
+    "desc": "Shows your or mentioned user amount of xps",
+    "usage": "xp (@user)"
+  },
+  "46": {
+    "name": "Balance",
+    "group": "Economy",
+    "desc": "Shows your balance in dollars",
+    "usage": "balance <@user>"
+  },
+  "47": {
+    "name": "Work",
+    "group": "Economy",
+    "desc": "Work and get money",
+    "usage": "work"
+  },
+  "48": {
+    "name": "Daily",
+    "group": "Economy",
+    "desc": "Get your daily money",
+    "usage": "daily"
+  },
+  "49": {
+    "name": "Convert",
+    "group": "Economy",
+    "desc": "Convert your XPs in dollars (1 dollars = 10XP)",
+    "usage": "convert <xp>"
+  },
+  "50": {
+    "name": "Say",
+    "group": "Fun",
+    "desc": "Say something with beautiful embed!",
+    "usage": "say <text>"
+  },
+  "51": {
+    "name": "Color",
+    "group": "Utility",
+    "desc": "Just random HEX code",
+    "usage": "color"
+  },
+  "52": {
+    "name": "About",
+    "group": "Utility",
+    "desc": "Something about this bot",
+    "usage": "about"
+  }
+}
